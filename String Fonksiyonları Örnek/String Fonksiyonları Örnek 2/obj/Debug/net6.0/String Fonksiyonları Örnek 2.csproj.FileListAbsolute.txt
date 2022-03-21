@@ -1,0 +1,15 @@
+C:\Users\turgu\source\repos\String Fonksiyonları Örnek\String Fonksiyonları Örnek 2\bin\Debug\net6.0\String Fonksiyonları Örnek 2.exe
+C:\Users\turgu\source\repos\String Fonksiyonları Örnek\String Fonksiyonları Örnek 2\bin\Debug\net6.0\String Fonksiyonları Örnek 2.deps.json
+C:\Users\turgu\source\repos\String Fonksiyonları Örnek\String Fonksiyonları Örnek 2\bin\Debug\net6.0\String Fonksiyonları Örnek 2.runtimeconfig.json
+C:\Users\turgu\source\repos\String Fonksiyonları Örnek\String Fonksiyonları Örnek 2\bin\Debug\net6.0\String Fonksiyonları Örnek 2.dll
+C:\Users\turgu\source\repos\String Fonksiyonları Örnek\String Fonksiyonları Örnek 2\bin\Debug\net6.0\ref\String Fonksiyonları Örnek 2.dll
+C:\Users\turgu\source\repos\String Fonksiyonları Örnek\String Fonksiyonları Örnek 2\bin\Debug\net6.0\String Fonksiyonları Örnek 2.pdb
+C:\Users\turgu\source\repos\String Fonksiyonları Örnek\String Fonksiyonları Örnek 2\obj\Debug\net6.0\String Fonksiyonları Örnek 2.csproj.AssemblyReference.cache
+C:\Users\turgu\source\repos\String Fonksiyonları Örnek\String Fonksiyonları Örnek 2\obj\Debug\net6.0\String Fonksiyonları Örnek 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turgu\source\repos\String Fonksiyonları Örnek\String Fonksiyonları Örnek 2\obj\Debug\net6.0\String Fonksiyonları Örnek 2.AssemblyInfoInputs.cache
+C:\Users\turgu\source\repos\String Fonksiyonları Örnek\String Fonksiyonları Örnek 2\obj\Debug\net6.0\String Fonksiyonları Örnek 2.AssemblyInfo.cs
+C:\Users\turgu\source\repos\String Fonksiyonları Örnek\String Fonksiyonları Örnek 2\obj\Debug\net6.0\String Fonksiyonları Örnek 2.csproj.CoreCompileInputs.cache
+C:\Users\turgu\source\repos\String Fonksiyonları Örnek\String Fonksiyonları Örnek 2\obj\Debug\net6.0\String Fonksiyonları Örnek 2.dll
+C:\Users\turgu\source\repos\String Fonksiyonları Örnek\String Fonksiyonları Örnek 2\obj\Debug\net6.0\ref\String Fonksiyonları Örnek 2.dll
+C:\Users\turgu\source\repos\String Fonksiyonları Örnek\String Fonksiyonları Örnek 2\obj\Debug\net6.0\String Fonksiyonları Örnek 2.pdb
+C:\Users\turgu\source\repos\String Fonksiyonları Örnek\String Fonksiyonları Örnek 2\obj\Debug\net6.0\String Fonksiyonları Örnek 2.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\turgu\source\repos\String Fonksiyonları Örnek\String Fonksiyonları Örnek\bin\Debug\net6.0\String Fonksiyonları Örnek.exe
+C:\Users\turgu\source\repos\String Fonksiyonları Örnek\String Fonksiyonları Örnek\bin\Debug\net6.0\String Fonksiyonları Örnek.deps.json
+C:\Users\turgu\source\repos\String Fonksiyonları Örnek\String Fonksiyonları Örnek\bin\Debug\net6.0\String Fonksiyonları Örnek.runtimeconfig.json
+C:\Users\turgu\source\repos\String Fonksiyonları Örnek\String Fonksiyonları Örnek\bin\Debug\net6.0\String Fonksiyonları Örnek.dll
+C:\Users\turgu\source\repos\String Fonksiyonları Örnek\String Fonksiyonları Örnek\bin\Debug\net6.0\ref\String Fonksiyonları Örnek.dll
+C:\Users\turgu\source\repos\String Fonksiyonları Örnek\String Fonksiyonları Örnek\bin\Debug\net6.0\String Fonksiyonları Örnek.pdb
+C:\Users\turgu\source\repos\String Fonksiyonları Örnek\String Fonksiyonları Örnek\obj\Debug\net6.0\String Fonksiyonları Örnek.csproj.AssemblyReference.cache
+C:\Users\turgu\source\repos\String Fonksiyonları Örnek\String Fonksiyonları Örnek\obj\Debug\net6.0\String Fonksiyonları Örnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turgu\source\repos\String Fonksiyonları Örnek\String Fonksiyonları Örnek\obj\Debug\net6.0\String Fonksiyonları Örnek.AssemblyInfoInputs.cache
+C:\Users\turgu\source\repos\String Fonksiyonları Örnek\String Fonksiyonları Örnek\obj\Debug\net6.0\String Fonksiyonları Örnek.AssemblyInfo.cs
+C:\Users\turgu\source\repos\String Fonksiyonları Örnek\String Fonksiyonları Örnek\obj\Debug\net6.0\String Fonksiyonları Örnek.csproj.CoreCompileInputs.cache
+C:\Users\turgu\source\repos\String Fonksiyonları Örnek\String Fonksiyonları Örnek\obj\Debug\net6.0\String Fonksiyonları Örnek.dll
+C:\Users\turgu\source\repos\String Fonksiyonları Örnek\String Fonksiyonları Örnek\obj\Debug\net6.0\ref\String Fonksiyonları Örnek.dll
+C:\Users\turgu\source\repos\String Fonksiyonları Örnek\String Fonksiyonları Örnek\obj\Debug\net6.0\String Fonksiyonları Örnek.pdb
+C:\Users\turgu\source\repos\String Fonksiyonları Örnek\String Fonksiyonları Örnek\obj\Debug\net6.0\String Fonksiyonları Örnek.genruntimeconfig.cache

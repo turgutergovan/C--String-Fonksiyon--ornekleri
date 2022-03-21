@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e548e306-b5ec-42e9-a74f-6112a7e2bf9b": {
+      "ProjectGuid": "e548e306-b5ec-42e9-a74f-6112a7e2bf9b",
+      "DisplayName": "String Fonksiyonları Örnek",
+      "ColorIndex": 0
+    },
+    "6069a817-6d64-4e92-aeba-664557ef4d8c": {
+      "ProjectGuid": "6069a817-6d64-4e92-aeba-664557ef4d8c",
+      "DisplayName": "String Fonksiyonları Örnek 2",
+      "ColorIndex": 1
+    },
+    "b64d1c76-6249-494c-9a68-7b56e1cd81f1": {
+      "ProjectGuid": "b64d1c76-6249-494c-9a68-7b56e1cd81f1",
+      "DisplayName": "String Fonksiyonları Örnek 3",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
